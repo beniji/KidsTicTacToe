@@ -1,5 +1,7 @@
 import time
 
+# There's currently a bug when a game is drawn!
+
 COMPUTER_MARK = -1
 USER_MARK = 1
 
